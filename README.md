@@ -1,4 +1,4 @@
-# Login & Signup
+# Python SQL Example
 ### KS4 Python Training aid
 
 This is an examples used with students to introduce basic SQL within Python.
